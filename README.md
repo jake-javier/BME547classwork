@@ -12,4 +12,5 @@ Here are the specifications for my database
 * Patient Age
 * Address
   - Street
+  - City
   - Zipcode
