@@ -1,3 +1,5 @@
+print("This is the database module and python calls it {}".format(__name__))
+
 def interface():
     print("Blood Test Analysis")
     keep_running = True
@@ -34,4 +36,5 @@ def HDL_driver():
     classification = check_HDL(HDL_value)
     print_result("HDL", HDL_value, classification)
 
-interface()
+if __name__  == "__main__":
+    interface()
