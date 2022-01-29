@@ -36,5 +36,6 @@ def HDL_driver():
     classification = check_HDL(HDL_value)
     print_result("HDL", HDL_value, classification)
 
+# to ensure this function doesn't run when being called. Use for all modules
 if __name__  == "__main__":
     interface()
