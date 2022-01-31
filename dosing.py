@@ -4,7 +4,7 @@
     NOTE:  This is a programming example, and should not be used for any
              type of medical treatment or diagnostics.
 """
-
+# code should be written more modular as it's currently confusing and not functional
 
 def dose_amount():
     print("Day One Dosing Guidelines")
