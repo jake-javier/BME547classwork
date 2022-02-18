@@ -1,0 +1,5 @@
+def test_line_creator():
+	from class_exercise import line_creator
+	result = line_creator(3)
+	expected = 3
+	assert result == expected
