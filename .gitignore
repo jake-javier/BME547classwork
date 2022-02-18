@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 __pycache__/
 venv/
 functions.py
+=======
+__pycache__
+functions.py
+>>>>>>> 6743acfc894cd14d6b5a9bc4a92628d7d5e9336b
