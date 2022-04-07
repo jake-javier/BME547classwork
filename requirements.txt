@@ -1,0 +1,7 @@
+pytest
+pycodestyle
+flask
+requests
+coverage
+pymodm
+dnspython
