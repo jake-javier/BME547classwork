@@ -24,8 +24,7 @@ def init_server():
     logging.basicConfig(filename="health_db_server.log", level=logging.DEBUG,
                         filemode='w')
     print("Connecting to database...")
-    connect("mongodb+srv://bme547classwork:eWH0JChdPtXFUWFq@bme547."
-            "fe1jz.mongodb.net/health_db?retryWrites=true&w=majority")
+    connect("mongodb+srv://jakejavier70:SRVfootball54@bme547.8bjgx.mongodb.net/health_db?retryWrites=true&w=majority")
     print("Connection attempt finished")
 
 
