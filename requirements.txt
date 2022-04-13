@@ -5,3 +5,5 @@ requests
 coverage
 pymodm
 dnspython
+tkinter
+Pillow
